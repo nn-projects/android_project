@@ -2,8 +2,6 @@
 
 **EventMaster** is a feature-rich Android application designed to streamline event management processes through modern mobile development practices. Built using MVVM architecture, Room database, and Google Maps integration, this application demonstrates enterprise-level software design while maintaining intuitive user experience.
 
-> **🎓 Academic Excellence**: This project showcases advanced Android development concepts including database management, real-time UI updates, geospatial integration, and material design implementation.
-
 ---
 
 ## 🎯 Key Features
